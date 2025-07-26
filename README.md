@@ -62,8 +62,8 @@
 
 ## 📫 Let's Connect
 
-- 📩 Email: [YourEmail@gmail.com]
-- 💼 LinkedIn: [linkedin.com/in/ahmedrazadev](https://www.linkedin.com/in/ahmedrazadev)
+- 📩 Email: [m.ahmedraza1527@gmail.com]
+- 💼 LinkedIn: [linkedin.com/in/ahmedrazadev](https://www.linkedin.com/in/muhammad-ahmed-raza-226628343/)
 - 💬 Ask me about: C#, C++, OOP Design, or UI Prototyping
 
 ---
