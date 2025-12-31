@@ -41,7 +41,7 @@
 
 ## 💼 Featured Projects
 
-### 🔹 Smart Token & Queue Management System
+### 🔹 Smart Token & Queue Management System (DESKTOP APPLICATION)
 A smart solution to manage token bookings and queues in government/public offices.  
 ✅ Built using **C#**, **WinForms**, and **SQL Server**  
 ✅ Prioritizes senior citizens (60+)  
